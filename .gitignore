@@ -1,8 +1,10 @@
-# data & heavy artifacts
-data/
-runs/
-inspection/
-kaggle_upload*/
+# data & heavy artifacts (repo-root anchored)
+/data/
+/runs/
+/inspection/
+/kaggle_upload*/
+
+# model weights & archives
 *.pt
 *.zip
 
