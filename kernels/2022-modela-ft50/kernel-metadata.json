@@ -1,0 +1,17 @@
+{
+  "id": "huseyincavus/spark2022-yolo-train",
+  "title": "SPARK2022 YOLO Train",
+  "code_file": "train_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "huseyincavus/spark2022-yolo",
+    "huseyincavus/spark2022-modela-weights"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}
