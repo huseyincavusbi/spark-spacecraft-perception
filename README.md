@@ -70,7 +70,8 @@ figures/      inference previews
 - **Datasets** — [spark2026-comp20-labels](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp20-labels) ·
   [spark2026-seg](https://www.kaggle.com/datasets/huseyincavus/spark2026-seg) ·
   [spark2026-comp-labels](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp-labels)
-- **Weights** — not released yet
+- **Weights** — [spark-2026-comp20-seg](https://huggingface.co/huseyincavus/spark-2026-comp20-seg) ·
+  [spark-spacecraft-weights](https://huggingface.co/huseyincavus/spark-spacecraft-weights)
 
 ---
 
