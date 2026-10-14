@@ -1,0 +1,7 @@
+ultralytics==8.4.173
+torch>=2.4
+torchvision
+numpy
+pillow
+pyyaml
+tqdm

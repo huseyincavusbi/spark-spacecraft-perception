@@ -1,0 +1,19 @@
+# data & heavy artifacts
+data/
+runs/
+inspection/
+kaggle_upload*/
+*.pt
+*.zip
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
+.metadata_never_index
+
+# staging leftovers
+dataset-metadata.json
