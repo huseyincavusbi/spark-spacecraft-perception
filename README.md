@@ -1,7 +1,7 @@
 # SPARK — Spacecraft Perception
 
 A single compact model for classification, detection and fine-grained component
-segmentation of spacecraft — built for the SPARK 2026 perception track.
+segmentation of spacecraft — built independently for the SPARK 2026 perception track.
 
 ![Inference overview](figures/00_overview_grid.jpg)
 
