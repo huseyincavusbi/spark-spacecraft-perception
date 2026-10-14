@@ -1,0 +1,16 @@
+{
+  "id": "huseyincavus/spark2026-seg-train-a",
+  "title": "spark2026-seg-train-a",
+  "code_file": "train_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "huseyincavus/spark2026-seg",
+    "huseyincavus/spark2022-modela-weights"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
