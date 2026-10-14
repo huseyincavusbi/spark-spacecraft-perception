@@ -70,11 +70,10 @@ figures/      inference previews
 - **Datasets** — [spark2026-comp20-labels](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp20-labels) ·
   [spark2026-seg](https://www.kaggle.com/datasets/huseyincavus/spark2026-seg) ·
   [spark2026-comp-labels](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp-labels)
-- **Weights** — [spark-2026-comp20-seg](https://huggingface.co/huseyincavus/spark-2026-comp20-seg) ·
-  [spark-spacecraft-weights](https://huggingface.co/huseyincavus/spark-spacecraft-weights)
+- **Weights** — [final model](https://huggingface.co/huseyincavus/spark-2026-comp20-seg) (HuggingFace) ·
+  [Kaggle mirror](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp20-seg) ·
+  [training weights](https://huggingface.co/huseyincavus/spark-spacecraft-weights)
 
 ---
-
-*Work in progress · raw data not stored in this repository*
 
 *Datasets: SPARK 2022 / SPARK 2026 (CVI2, University of Luxembourg)*
