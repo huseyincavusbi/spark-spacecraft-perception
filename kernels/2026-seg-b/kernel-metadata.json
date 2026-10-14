@@ -1,0 +1,15 @@
+{
+  "id": "huseyincavus/spark2026-seg-train-b",
+  "title": "spark2026-seg-train-b",
+  "code_file": "train_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "huseyincavus/spark2026-seg"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
