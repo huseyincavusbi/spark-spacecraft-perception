@@ -12,6 +12,10 @@ segmentation of spacecraft — built for the SPARK 2026 perception track.
 | SPARK 2022 | 110k (66k / 22k / 22k) | 11 | boxes |
 | SPARK 2026 | 80k (60k / 20k) | 10 | component masks (body / panel) |
 
+Official datasets: [SPARK-2022](https://huggingface.co/datasets/CVI2-UniLU/SPARK-2022) ·
+[SPARK-2026](https://huggingface.co/datasets/CVI2-UniLU/SPARK-2026) — CVI² group, SnT,
+University of Luxembourg (CC-BY-4.0).
+
 ## Results
 
 | Metric | Value |
@@ -65,15 +69,41 @@ results/      per-run results.csv + args.yaml
 figures/      inference previews
 ```
 
-## Links
+## Weights
 
-- **Datasets** — [spark2026-comp20-labels](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp20-labels) ·
-  [spark2026-seg](https://www.kaggle.com/datasets/huseyincavus/spark2026-seg) ·
-  [spark2026-comp-labels](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp-labels)
-- **Weights** — [final model](https://huggingface.co/huseyincavus/spark-2026-comp20-seg) (HuggingFace) ·
-  [Kaggle mirror](https://www.kaggle.com/datasets/huseyincavus/spark2026-comp20-seg) ·
-  [training weights](https://huggingface.co/huseyincavus/spark-spacecraft-weights)
+- [spark-2026-comp20-seg](https://huggingface.co/huseyincavus/spark-2026-comp20-seg) — final model
+- [spark-spacecraft-weights](https://huggingface.co/huseyincavus/spark-spacecraft-weights) — training weights
+
+## Citation
+
+```bibtex
+@dataset{rathinam_2022,
+  author       = {Rathinam, Arunkumar and Gaudilliere, Vincent and
+                  Mohamed Ali, Mohamed Adel and Ortiz Del Castillo, Miguel and
+                  Pauly, Leo and Aouada, Djamila},
+  title        = {SPARK 2022 Dataset : Spacecraft Detection and Trajectory Estimation},
+  month        = jun,
+  year         = 2022,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.6599762},
+  url          = {https://doi.org/10.5281/zenodo.6599762}
+}
+```
+
+```bibtex
+@dataset{rathinam_2024_10908215,
+  author       = {Rathinam, Arunkumar and Mohamed Ali, Mohamed Adel and
+                  Gaudilliere, Vincent and Aouada, Djamila},
+  title        = {SPARK 2024: Datasets for Spacecraft Semantic Segmentation
+                  and Spacecraft Trajectory Estimation},
+  month        = feb,
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.10908215},
+  url          = {https://doi.org/10.5281/zenodo.10908215}
+}
+```
 
 ---
 
-*Datasets: SPARK 2022 / SPARK 2026 (CVI2, University of Luxembourg)*
+*Datasets © CVI² group, SnT, University of Luxembourg · CC-BY-4.0*
