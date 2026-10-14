@@ -1,0 +1,16 @@
+{
+  "id": "gr3152/spark2026-comp20-train",
+  "title": "spark2026-comp20-train",
+  "code_file": "train_kernel.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "huseyincavus/spark2026-seg",
+    "huseyincavus/spark2026-comp20-labels"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
